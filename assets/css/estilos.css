@@ -3,7 +3,7 @@ ul {
   padding: 0;
   overflow: hidden;
   list-style-type: none;
-  background-color: #595353;
+  background-color: #292b23;
 }
 
 li {
@@ -18,11 +18,11 @@ li a {
 }
 
 li a:hover {
-  background-color: #830f0b;
+  background-color: #dbd809b7;
 }
 
 .activo {
-  background-color: #fa483b;
+  background-color: #fbff02e0;
 }
 
 .derecha {
